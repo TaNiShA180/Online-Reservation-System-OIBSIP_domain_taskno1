@@ -2,6 +2,10 @@
 
 A simple console-based train reservation system built in Java that allows users to login, make reservations, and cancel bookings.
 
+
+https://github.com/user-attachments/assets/761bef9d-f9cd-4184-8056-fcac6529a419
+
+
 ## Table of Contents
 - Objective
 - Features
